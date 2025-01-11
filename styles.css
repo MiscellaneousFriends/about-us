@@ -1,0 +1,13 @@
+
+body {
+	align-items: center;
+    align-self: center;
+    align-content: center;
+    text-align: center;
+	align-image: center;
+	background-color: #000;
+	background-image: url("Swirl (1).png");
+	background-repeat: no-repeat;
+	color: #fff;
+	font-family: Arial;
+}
